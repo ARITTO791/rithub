@@ -1,0 +1,2 @@
+# rithub
+open source
